@@ -1,0 +1,24 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-ser
+    
+}
+    header h1{
+        color: blueviolet;
+        font-size: x-large;
+        font-weight: bolder;
+    }
+    
+    header image{
+        height: 500;
+        width: 1000;
+    }
+
+    nav a{
+        color: darkturquoises;
+        font-style: oblique;
+        font-weight: bolder;
+    }
+
+    main h2{
+        color: fuchsia;
+    }
